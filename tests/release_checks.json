@@ -1,0 +1,7 @@
+{
+  "tests": [
+    "tests/validate.do",
+    "tests/singleton_cohorts.do"
+  ],
+  "cwd": "."
+}

@@ -1,0 +1,16 @@
+.test-library/
+.test-deps/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+*.Rcheck/
+*.tar.gz
+.Rhistory
+.RData
+*.log
+*.smcl
+
+
+examples/school_results.csv
